@@ -51,7 +51,7 @@ This ASR system is composed of multiple linked components:
 
 1. **Not enough data samples**: Due to the complexity of the unstructured dataset that we had to create, collect, clean and process. This model is not yet able to fully transcribe seamlessly. 
 ---
-# Referencing Salah Zaiem (PhD Candidate): zaiemsalah@gmail.com for his amazing work onn this matter.
+# Referencing Salah Zaiem (PhD Candidate): zaiemsalah@gmail.com for his amazing work on this matter.
 # Referencing SpeechBrain
 
 This work has no published paper yet and may never have one. If you use this model in an academic setting, please cite the original SpeechBrain paper:
